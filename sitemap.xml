@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://tylerlangqb.com/</loc></url>
-<url><loc>https://tylerlangqb.com/stats.html</loc></url>
-<url><loc>https://tylerlangqb.com/game-log.html</loc></url>
-<url><loc>https://tylerlangqb.com/recruiting.html</loc></url>
+  <url>
+    <loc>https://tylerlangqb.com/</loc>
+  </url>
+  <url>
+    <loc>https://tylerlangqb.com/stats.html</loc>
+  </url>
+  <url>
+    <loc>https://tylerlangqb.com/game-log.html</loc>
+  </url>
+  <url>
+    <loc>https://tylerlangqb.com/recruiting.html</loc>
+  </url>
 </urlset>
